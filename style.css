@@ -1,0 +1,28 @@
+body{
+    background-color: #333333;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+.alemania{
+    height: 300px;
+    width: 500px;
+    margin: 0px auto;
+}
+
+.negro{
+    background-color: black;
+    height: 100px;
+}
+
+.rojo{
+    background-color: red;
+    height: 100px;
+}
+
+.amarillo{
+    background-color: yellow;
+    height: 100px;
+}
